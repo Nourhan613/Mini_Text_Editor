@@ -1,4 +1,4 @@
-<h1> Mini Text Editor </h1>
+# Mini Text Editor
 ## The application has a feature to read a text using espeak 
 ## The application have the following functions :
 - Add line: takes text input from user and it will be added to the end of the file.
