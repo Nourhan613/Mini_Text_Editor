@@ -1,2 +1,2 @@
 # Mini_Text_Editor
-## Mini Text Editor has feature to read a text using espeak
+## The application has a feature to read a text using espeak
